@@ -1,23 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Tavares</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Labeddit](google.com)
-
-- 👯 I’m looking to collaborate on [frontend and backend projects](google.com)
-
-- 🤝 I’m looking for help with [TeyvatDB](google.com)
-
-- 👨‍💻 All of my projects are available at [google.com](google.com)
-
-- 📝 I regularly write articles on [google.com](google.com)
-
-- 💬 Ask me about **react and css**
-
 - 📫 How to reach me **lucas.c.d.tavares@gmail.com**
-
-- 📄 Know about my experiences [google.com](google.com)
-
-- ⚡ Fun fact **I love dailies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
